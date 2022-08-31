@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Erick Ogaro, a software engineer from Nairobi, Kenya
+### Hi there 👋 I'm Erick Ogaro, a software engineer from Nairobi, Kenya 🇰🇪👨🏾‍💻
 
 <!--
 **ogaroh/ogaroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
