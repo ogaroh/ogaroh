@@ -26,6 +26,5 @@ I am a result-oriented software engineer....
 ### 🤝🏻 Connect with Me [here](https://ogaroh.github.io)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/erick-ogaro/" target="_blank"><img alt="LinkedIn" src="https://logonoid.com/images/thumbs/linkedin-logo.jpg"></a>
  ⭐️<a href="mailto:erickogaro1998+github@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-erickogaro1998@gmail.com-green?style=flat&logo=gmail"></a>
 </p>
