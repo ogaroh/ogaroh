@@ -1,12 +1,6 @@
 ### Hi there 👋 I'm Erick Ogaro 👨🏾‍💻 a software Engineer from Nairobi, Kenya 🇰🇪
 
-> Software Engineer
-
-<div>
- <p>
-I am a result-oriented software engineer....
-</p>
-</div>
+> I am a result-oriented Software Engineer
 
 ### Programming Languages 🌐
 
