@@ -17,7 +17,7 @@
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogaroh&layout=compact&theme=tokyonight&hide_border=true" alt="Erick's Top Languages"/>
 </a>
 
-### 🤝🏻 Connect with Me [here](https://ogaroh.github.io)
+### 👨🏾‍💻 Connect with Me [on my personal website](https://ogaroh.github.io)
 
 <p align="left">
  ⭐️<a href="mailto:erickogaro1998+github@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-erickogaro1998@gmail.com-green?style=flat&logo=gmail"></a>
