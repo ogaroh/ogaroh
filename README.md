@@ -20,5 +20,5 @@
 ### 👨🏾‍💻 Connect with Me [on my personal website](https://ogaroh.github.io)
 
 <p align="left">
- ⭐️<a href="mailto:erickogaro1998+github@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-erickogaro1998@gmail.com-green?style=flat&logo=gmail"></a>
+<a href="mailto:erickogaro1998+github@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-erickogaro1998@gmail.com-green?style=flat&logo=gmail"></a>
 </p>
