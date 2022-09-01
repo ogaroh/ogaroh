@@ -13,6 +13,7 @@
 ### Github Stats
 
 [![ogaroh GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogaroh&show_icons=true&count_private=true)](https://github.com/ogaroh/)
+</br>
 <a href="https://github.com/ogaroh/github-readme-stats">
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogaroh&layout=compact&theme=tokyonight&hide_border=true" alt="Erick's Top Languages"/>
 </a>
