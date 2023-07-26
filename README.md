@@ -8,6 +8,7 @@
 
 ![Flutter](https://img.shields.io/badge/flutter-%23007ACC.svg?style=for-the-badge&logo=flutter&logoColor=%1d89c6) ![Dart](https://img.shields.io/badge/dart-%23007ACC.svg?style=for-the-badge&logo=dart&logoColor=%64caf9)
 ![Swift & SwiftUI](https://img.shields.io/badge/Swift-%F94D2B.svg?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 # 📊 GitHub Stats:
