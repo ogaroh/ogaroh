@@ -12,7 +12,7 @@
 ![Swift](https://img.shields.io/badge/Swift-F94D2B.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-white.svg?style=for-the-badge&logo=firebase&logoColor=%23F7DF1E)
+![Firebase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase)
 
 # 📊 GitHub Stats:
 
