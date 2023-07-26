@@ -6,9 +6,9 @@
 
 # 💻 Tech Stack:
 
-![Flutter](https://img.shields.io/badge/flutter-%23007ACC.svg?style=for-the-badge&logo=flutter&logoColor=%1d89c6) ![Dart](https://img.shields.io/badge/dart-%23007ACC.svg?style=for-the-badge&logo=dart&logoColor=%64caf9)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-%0b2d87.svg?style=for-the-badge&logo=swift-ui&logoColor=%1d89c6) 
-![Swift](https://img.shields.io/badge/Swift-%fe4c2c.svg?style=for-the-badge&logo=swift&logoColor=%1d89c6) 
+![Flutter](https://img.shields.io/badge/flutter-%23007ACC.svg?style=for-the-badge&logo=flutter) ![Dart](https://img.shields.io/badge/dart-%23007ACC.svg?style=for-the-badge&logo=dart)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-%0b2d87.svg?style=for-the-badge&logo=swift-ui&logoColor=%1d89c6)
+![Swift](https://img.shields.io/badge/Swift-%fe4c2c.svg?style=for-the-badge&logo=swift)
 
 # 📊 GitHub Stats:
 
