@@ -2,7 +2,7 @@
 
 ### Hi there 👋🏾 I'm Erick Ogaro, a Senior Software Engineer 👨🏾‍💻🇰🇪
 
-> I am a result-oriented Software Engineer with a demonstrated history of working in the software development industry. I'm skilled in user experience research & analysis, user interface design, Mobile Application development, API development, cloud development, cloud DevOps, Microsoft Power Platform, and SharePoint. I consider myself a strong engineering professional with a Bachelor's degree in Computer Science and a certificate in Oracle Database Administration in addition to other cloud engineering accreditations (AWS & Microsoft Azure). Cheers! 🥳
+> I am a Software Engineer with 5+ years of experience in professional software development. I'm skilled in user experience research & analysis, user interface design, Mobile Application development, API development, cloud development, cloud DevOps, Microsoft Power Platform, and SharePoint. I am a strong engineering professional with a Bachelor's degree in Computer Science and a certificate in Oracle Database Administration in addition to other cloud engineering accreditations (AWS & Microsoft Azure). Cheers! 🥳
 
 # 💻 Tech Stack:
 
