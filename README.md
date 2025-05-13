@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### Hi there 👋🏾 I'm Erick Ogaro — Mobile Engineer (Flutter, iOS, Android) | 5+ Years Experience
+### Hi there 👋🏾 I'm Erick Ogaro — Mobile Engineer (Flutter, iOS, Android)
 
 > I design and build high-quality mobile apps with clean architecture, smooth UI, and scalable backend integrations. Skilled in Flutter, Swift, Java/Kotlin, Firebase, Supabase, REST APIs, and other cloud platforms (AWS & Azure). Based in Kenya 🇰🇪 — open to global opportunities.
 
